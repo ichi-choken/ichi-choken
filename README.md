@@ -28,11 +28,6 @@ ETロボコン2025東海地区 フィジカル部門 3位 (チーム名：ミナ
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-- 組込み：C++ / RTOS（TOPPERS/ASP3，SPIKE-RT）
-- スクリプト・解析：Python，OpenCV
-- Web：HTML / JavaScript
-- 環境：WSL2，Linux
-
 ### リンク
 
 - 公開アプリ： https://ichi-choken.github.io/kakeibo
