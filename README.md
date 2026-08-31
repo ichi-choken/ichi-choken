@@ -24,16 +24,15 @@ ETロボコン2025東海地区 フィジカル部門 3位 (チーム名：ミナ
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-- 組込み：C++ / RTOS（TOPPERS/ASP3，SPIKE-RT），クロスコンパイル
+- 組込み：C++ / RTOS（TOPPERS/ASP3，SPIKE-RT）
 - スクリプト・解析：Python，OpenCV
-- Web：HTML / JavaScript，Flask
+- Web：HTML / JavaScript
 - 環境：WSL2，Linux
 
 ### リンク
 
-- 公開アプリ： https://ichi-choken.github.io
+- 公開アプリ： https://ichi-choken.github.io/kakeibo
