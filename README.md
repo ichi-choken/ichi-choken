@@ -9,9 +9,9 @@ ETロボコン2025 東海地区 フィジカル部門 3位（チーム名：ミ�
 **[レシート家計簿](https://ichi-choken.github.io/kakeibo/)** — Gemini API × 単一HTML
 - レシート画像から店舗・日付・商品・金額を自動入力し，自分で定義した3階層カテゴリに沿って分類
 
-**Raspberry Pi 赤外線リモコンサーバー** — Flask + 単一HTML
+**Raspberry Pi 赤外線リモコンサーバー** — Flask + 単一HTML([作品集](https://github.com/ichi-choken/my-ai-works))
 - MOSFET による GPIO 制御，操作パネルの配置をサーバー側に保存，オフライン時のフォールバック対応
-- [作品集](https://github.com/ichi-choken/my-ai-works)
+
 
 ### ETロボコン 2026 / チーム 名南RC（Basic Class）
 - SPIKE-RT・TOPPERS/ASP3 上の C++ による自律走行システム
