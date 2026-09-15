@@ -33,6 +33,3 @@ ETロボコン2025 東海地区 フィジカル部門 3位（チーム名：ミ�
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-### リンク
-- 家計簿アプリ： https://ichi-choken.github.io/kakeibo/
